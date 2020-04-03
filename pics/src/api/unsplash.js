@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from 'axios'; //3rd party package
 
 export default axios.create({
 	baseURL: 'https://api.unsplash.com',
